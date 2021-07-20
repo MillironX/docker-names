@@ -465,6 +465,9 @@ export const right = [
   // Susan Kare, created the icons and many of the interface elements for the original Apple Macintosh in the 1980s, and was an original employee of NeXT, working as the Creative Director. https://en.wikipedia.org/wiki/Susan_Kare
   "kare",
 
+  // Stefan Karpinski - co-creator of the Julia programming language. Recognizable on most web forums by his awesome Viking helmet. - https://en.wikipedia.org/wiki/Stefan_Karpinski
+  "karpinski",
+
   // Mstislav Keldysh - a Soviet scientist in the field of mathematics and mechanics, academician of the USSR Academy of Sciences (1946), President of the USSR Academy of Sciences (1961–1975), three times Hero of Socialist Labor (1956, 1961, 1971), fellow of the Royal Society of Edinburgh (1968). https://en.wikipedia.org/wiki/Mstislav_Keldysh
   "keldysh",
 
