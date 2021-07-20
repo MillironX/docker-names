@@ -513,6 +513,9 @@ export const right = [
   // Inge Lehmann - Danish seismologist and geophysicist. Known for discovering in 1936 that the Earth has a solid inner core inside a molten outer core. https://en.wikipedia.org/wiki/Inge_Lehmann
   "lehmann",
 
+  // Octave Levenspiel - Chemical engineer specializing in reaction engineering. Reactor volume plots and GNU's implementation of Matlab are named after him. - https://en.wikipedia.org/wiki/Octave_Levenspiel
+  "levenspiel",
+
   // Daniel Lewin - Mathematician, Akamai co-founder, soldier, 9/11 victim-- Developed optimization techniques for routing traffic on the internet. Died attempting to stop the 9-11 hijackers. https://en.wikipedia.org/wiki/Daniel_Lewin
   "lewin",
 
