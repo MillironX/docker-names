@@ -423,6 +423,9 @@ export const right = [
   // Frances Hugle, she was an American scientist, engineer, and inventor who contributed to the understanding of semiconductors, integrated circuitry, and the unique electrical principles of microscopic materials. https://en.wikipedia.org/wiki/Frances_Hugle
   "hugle",
 
+  // Robert Hungate - Creator of anaerobic bacterial culture methods for use in rumen microbiology - https://en.wikipedia.org/wiki/Robert_Hungate
+  "hungate",
+
   // Hypatia - Greek Alexandrine Neoplatonist philosopher in Egypt who was one of the earliest mothers of mathematics - https://en.wikipedia.org/wiki/Hypatia
   "hypatia",
 
