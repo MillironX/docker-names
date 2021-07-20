@@ -447,7 +447,7 @@ export const right = [
   // A. P. J. Abdul Kalam - is an Indian scientist aka Missile Man of India for his work on the development of ballistic missile and launch vehicle technology - https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam
   "kalam",
 
-  // Dan Kaminsky - (Feb. 7, 1979 - April 23, 2021) cybersecurity hero known for his study on DNS cache poisoning and his investingations into the Sony Rootkit attacks. 
+  // Dan Kaminsky - (Feb. 7, 1979 - April 23, 2021) cybersecurity hero known for his study on DNS cache poisoning and his investingations into the Sony Rootkit attacks.
   "kaminsky",
 
   // Sergey Petrovich Kapitsa (Russian: Серге́й Петро́вич Капи́ца; 14 February 1928 – 14 August 2012) was a Russian physicist and demographer. He was best known as host of the popular and long-running Russian scientific TV show, Evident, but Incredible. His father was the Nobel laureate Soviet-era physicist Pyotr Kapitsa, and his brother was the geographer and Antarctic explorer Andrey Kapitsa. - https://en.wikipedia.org/wiki/Sergey_Kapitsa
@@ -518,6 +518,9 @@ export const right = [
 
   // Auguste and Louis Lumière - the first filmmakers in history - https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re
   "lumiere",
+
+  // Jay Laurence Lush - the father of animal breeding - https://en.wikipedia.org/wiki/Jay_Laurence_Lush
+  "lush",
 
   // Mahavira - Ancient Indian mathematician during 9th century AD who discovered basic algebraic identities - https://en.wikipedia.org/wiki/Mah%C4%81v%C4%ABra_(mathematician)
   "mahavira",
