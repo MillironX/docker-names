@@ -1,6 +1,6 @@
 # Docker Names
 
-An implementation of [docker-names](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go) in TypeScript. This package unlike the normal docker name generator, generates with a `-` instead of an `_`.
+An implementation of [docker-names](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go) in TypeScript.
 
 ## Usage
 
@@ -29,7 +29,7 @@ console.log(dockerName);
 //Outputs goofy-panini-4
 ```
 
-## Words 
+## Words
 
 The words can also be imported from the package if need be.
 

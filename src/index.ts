@@ -856,7 +856,7 @@ export const right = [
 export function generateName(): string {
   const leftElement = left[Math.floor(Math.random() * left.length)];
   const rightElement = right[Math.floor(Math.random() * right.length)];
-  return `${leftElement}-${rightElement}`
+  return `${leftElement}_${rightElement}`
 }
 
 /**
@@ -864,5 +864,5 @@ export function generateName(): string {
  * @returns {string}
  */
 export function generateNameWithNumber() {
-  return `${generateName()}-${Math.floor(Math.random() * 6) + 1}`
+  return `${generateName()}_${Math.floor(Math.random() * 6) + 1}`
 }
