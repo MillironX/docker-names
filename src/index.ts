@@ -753,6 +753,9 @@ export const right = [
   // Marie Tharp - American geologist and oceanic cartographer who co-created the first scientific map of the Atlantic Ocean floor. Her work led to the acceptance of the theories of plate tectonics and continental drift. https://en.wikipedia.org/wiki/Marie_Tharp
   "tharp",
 
+  // Ernest Thiele - Chemical engineer who developed a method for finding number of required trays in a distallation column (the McCabe/Thiele method) and for quantifying the relationship between reaction rates and transport rates in diffusive reactors (the Thiele modulus). - https://en.wikipedia.org/wiki/Ernest_Thiele
+  "thiele",
+
   // Ken Thompson - co-creator of UNIX and the C programming language - https://en.wikipedia.org/wiki/Ken_Thompson
   "thompson",
 
