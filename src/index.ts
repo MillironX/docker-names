@@ -390,6 +390,9 @@ export const right = [
   // Werner Heisenberg was a founding father of quantum mechanics. https://en.wikipedia.org/wiki/Werner_Heisenberg
   "heisenberg",
 
+  // Charles Roy Henderson - Developer of BLUP as the solution of linear mixed models commonly used in breeding value calculations. - https://en.wikipedia.org/wiki/Charles_Roy_Henderson
+  "henderson",
+
   // Grete Hermann was a German philosopher noted for her philosophical work on the foundations of quantum mechanics. https://en.wikipedia.org/wiki/Grete_Hermann
   "hermann",
 
