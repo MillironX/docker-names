@@ -160,6 +160,9 @@ export const right = [
   // Bhaskara II - Ancient Indian mathematician-astronomer whose work on calculus predates Newton and Leibniz by over half a millennium - https://en.wikipedia.org/wiki/Bh%C4%81skara_II#Calculus
   "bhaskara",
 
+  // Baxter Black - Veterinarian, humorist and all-around cowboy philosopher - https://en.wikipedia.org/wiki/Baxter_Black
+  "black",
+
   // Elizabeth Helen Blackburn - Australian-American Nobel laureate; best known for co-discovering telomerase. https://en.wikipedia.org/wiki/Elizabeth_Blackburn
   "blackburn",
 
