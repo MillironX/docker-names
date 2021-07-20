@@ -866,3 +866,14 @@ export function generateName(): string {
 export function generateNameWithNumber() {
   return `${generateName()}_${Math.floor(Math.random() * 6) + 1}`
 }
+
+/**
+ * Generates a name prepended by today's date in the format YYYYMMDD
+ * @returns {string}
+ */
+export function generateNameWithDate() {
+  var today = new Date();
+  today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+  const todayText = today.toISOString().slice(0,10).replace(/-/g,"");
+  return `${todayText}_${generateName()}`
+}
