@@ -829,27 +829,38 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
+  "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
-  "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
+                // Ledion Bitincka  - Co-founder and Chief Technology Officer
+  "chung",      // Bill Chung       - Sr Site Reliability Engineer
   "easley",     // Bryce Easley     - Sr Software Engineer
+  "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
+  "goozy",      // Steph Campagna   - Sr Events Marketing Manager
+  "gilbert",    // Austin Gilbert   - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
   "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
+  "jeebus",	    // Louise Tang      - CSM Success Ops
+  "katz",       // Michael Katz     - Sr Tech Writer
+  "krueger",    // Brian Krueger    - Sr Software Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
   "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
-  "shanaghy",   // Mick Shanaghy    - Head of Customer Support & Professional Services
+                // Mick Shanaghy    - Head of Customer Support & Professional Services
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
+  "sobolewski", // Janusz Sobolewski- Principal Software Engineer
+  "strong",     // Abby Strong      - VP Marketing
+  "suara",      // Hafiz Suara      - Software Engineer
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
+  "wilk",       // Łukasz Wilk      - Sr Software Engineer
+  "vandoren",   // Anson VanDoren   - Sr Software Engineer
+                // Tim VanDoren     - Sr Frontend Engineer
+                // Trevor VanDoren  - Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
-  "goozy",      // Steph Campagna   - Sr Events Marketing Manager
-  "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
-  "jeebus",	// Louise Tang      - CSM Success Ops
-  "strong",     // Abby Strong      - VP Marketing
-  "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
 
   // Governors of Kansas - https://en.wikipedia.org/wiki/List_of_governors_of_Kansas
   "reeder",
