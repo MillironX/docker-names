@@ -25,7 +25,7 @@ const dockerName = generateName();
 
 console.log(dockerName);
 
-//Outputs goofy_panini
+//Outputs goofy-panini
 ```
 
 ### Generate Name With Number
@@ -37,7 +37,7 @@ const dockerName = generateNameWithNumber();
 
 console.log(dockerName);
 
-//Outputs goofy_panini_4
+//Outputs goofy-panini_4
 ```
 
 ### Generate Name With Date
@@ -49,7 +49,7 @@ const dockerName = generateNameWithDate();
 
 console.log(dockerName);
 
-//Outputs 20210720_goofy_panini
+//Outputs 20210720_goofy-panini
 ```
 
 ## Words
