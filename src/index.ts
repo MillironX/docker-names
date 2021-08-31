@@ -964,7 +964,7 @@ export const right = [
 export function generateName(): string {
   const leftElement = left[Math.floor(Math.random() * left.length)];
   const rightElement = right[Math.floor(Math.random() * right.length)];
-  return `${leftElement}_${rightElement}`
+  return `${leftElement}-${rightElement}`
 }
 
 /**

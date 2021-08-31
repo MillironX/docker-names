@@ -9,7 +9,7 @@ An implementation of [docker-names](https://github.com/moby/moby/blob/master/pkg
    - animal breeding
    - rumen science
    - among others...
-2. Changed the delimiter back to an underscore
+2. Changed the delimiter to an underscore when adding extra data (date or number)
 3. Added an identifier that starts with a date (useful where identifiers have to be sorted chronologically).
 
 ## Usage
