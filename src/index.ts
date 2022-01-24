@@ -863,7 +863,7 @@ export const right = [
   "vandoren",   // Anson VanDoren   - Sr Software Engineer
                 // Tim VanDoren     - Sr Frontend Engineer
                 // Trevor VanDoren  - Software Engineer
-  "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
+  "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
 
   // Governors of Kansas - https://en.wikipedia.org/wiki/List_of_governors_of_Kansas
   "reeder",
