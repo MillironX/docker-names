@@ -829,6 +829,7 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
+  "barrett",     // Nick Barrett     - Software Engineer
   "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                 // Ledion Bitincka  - Co-founder and Chief Technology Officer
@@ -836,6 +837,7 @@ export const right = [
   "chung",      // Bill Chung       - Sr Site Reliability Engineer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "fones",      // Russel Fones.    - Sr Frontend Software Engineer
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
@@ -849,6 +851,7 @@ export const right = [
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Sr. Technical Program Manage
   "quick",      // Tom Quick        - Sr. Technical Program Manager
+  "rivendell",  // Will Rivendell   - Sr. Software Engineer
   "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
